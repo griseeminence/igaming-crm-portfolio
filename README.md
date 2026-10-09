@@ -2,15 +2,7 @@
  
 *Русская версия: [README.ru.md](README.ru.md)*
  
-I'm moving into iGaming CRM from operations management. This repo is my portfolio for a Junior CRM role: lifecycle journeys I built in Customer.io, typical CRM problems I worked through, and my view on responsible gambling.
- 
-## In short
-- **6 lifecycle workflows** built in Customer.io, from sign-up to VIP, each with a written playbook
-- **10 CRM cases** solved step by step, each ending with how I'd measure the result against a control group
-- **Responsible gambling and bonus abuse rules** based on UK Gambling Commission guidance
-- The same content in English and Russian
-![Tiered reactivation workflow in Customer.io](workflows/03-tiered-reactivation.png)
-*Tiered reactivation, one of the six workflows. [Read the playbook](en/playbook/03-tiered-reactivation.md)*
+I'm moving into 
  
 ## If you have 5 minutes
 1. [Case 05: reading a win-back report](en/cases/05-reading-a-campaign-report.md) - why "3,040 reactivated players" turns out to be about 475 extra deposits
