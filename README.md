@@ -10,18 +10,61 @@ I'm moving into iGaming CRM from operations management. This repo is my portfoli
 - **Responsible gambling and bonus abuse rules** based on UK Gambling Commission guidance
 - The same content in English and Russian
 
-<details>
-<summary>Screenshot: tiered reactivation workflow in Customer.io</summary>
+## If you have 5 minutes
+1. [Case 05: reading a win-back report](en/cases/05-reading-a-campaign-report.md) - why "3,040 reactivated players" turns out to be about 475 extra deposits
+2. [Playbook 03: tiered reactivation](en/playbook/03-tiered-reactivation.md) - how the journey works, step by step
+3. [Responsible gambling and bonus abuse](en/responsible-gaming/README.md) - who CRM shouldn't message, and why
 
-![Tiered reactivation workflow in Customer.io](workflows/03-tiered-reactivation.png)
+## Workflows in Customer.io
+Click to open a screenshot.
+
+<details>
+<summary>1. Onboarding: sign-up -> first deposit</summary>
+
+![Onboarding workflow](workflows/01-onboarding-to-ftd.png)
+
+[Read the playbook](en/playbook/01-onboarding-to-ftd.md)
+</details>
+
+<details>
+<summary>2. First deposit -> second deposit</summary>
+
+![Second deposit workflow](workflows/02-post-ftd-second-deposit.png)
+
+[Read the playbook](en/playbook/02-post-ftd-second-deposit.md)
+</details>
+
+<details>
+<summary>3. Tiered reactivation</summary>
+
+![Tiered reactivation workflow](workflows/03-tiered-reactivation.png)
 
 [Read the playbook](en/playbook/03-tiered-reactivation.md)
 </details>
 
-## If you have 5 minutes
-1. [Case 05: reading a win-back report](en/cases/05-reading-a-campaign-report.md) - why "3,040 reactivated players" turns out to be about 475 extra deposits
-2. [Playbook 03: tiered reactivation](en/playbook/03-tiered-reactivation.md) - the workflow above, step by step
-3. [Responsible gambling and bonus abuse](en/responsible-gaming/README.md) - who CRM shouldn't message, and why
+<details>
+<summary>4. Event-driven VIP cycle</summary>
+
+![VIP cycle workflow](workflows/04-event-driven-vip.png)
+
+[Read the playbook](en/playbook/04-event-driven-vip.md)
+</details>
+
+<details>
+<summary>5. Failed deposit recovery</summary>
+
+![Failed deposit workflow](workflows/05-failed-deposit-recovery.png)
+
+[Read the playbook](en/playbook/05-failed-deposit-recovery.md)
+</details>
+
+<details>
+<summary>6. Cross-sell: sports -> casino</summary>
+
+![Cross-sell workflow](workflows/06-sportsbook-to-casino-cross-sell.png)
+
+[Read the playbook](en/playbook/06-sportsbook-to-casino-cross-sell.md)
+</details>
 
 ## Principles I work by
 1. **A campaign is worth exactly what it caused.** I count the difference against a random control group. The number of responders on its own says nothing.
