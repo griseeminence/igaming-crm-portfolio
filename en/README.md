@@ -2,7 +2,7 @@
 
 *Русская версия: [README.md](../ru/README.md)*
 
-I'm moving into iGaming CRM from operations management. Behind me: five years running my own multi-location food business, sales and franchise management, Python backend development, and training in AML, KYC, player verification and customer support for gambling operators.
+I'm moving into iGaming CRM from operations management. Behind me: nearly six years running my own multi-location food business, sales and franchise management, Python backend development, and training in AML, KYC, player verification and customer support for gambling operators.
 
 This portfolio shows how I think about CRM: a playbook of lifecycle campaigns, solutions to typical CRM problems, and my position on the main CRM questions.
 
@@ -22,9 +22,9 @@ This portfolio shows how I think about CRM: a playbook of lifecycle campaigns, s
 4. **Behaviour, not the calendar.** A journey starts with a player's action and ends when the player reaches the goal.
 
 ## About me
-- Founder and operations manager of a food-service chain (launched, scaled, sold it); before that I ran a sales and franchise department.
+- Founder and operations manager of a food-service chain for nearly six years (launched, scaled, sold it); before that I ran a sales and franchise department.
 - Python backend developer (Yandex Practicum), Telegram bots and automation.
-- Certificates: SumSub (Fraud Prevention, AML Transaction Monitoring), Casino Guru Academy (Player Verification & AML; Customer Support & Complaints), Chainalysis, HubSpot Inbound Marketing.
-- Remote work, open to relocation.
+- Certificates: Customer.io Platform Training, SumSub (Fraud Prevention, AML Transaction Monitoring), Casino Guru Academy (Player Verification & AML; Customer Support & Complaints), Chainalysis, HubSpot Inbound Marketing.
+- Russian (native), English (fluent), German (basic). Based in Bangkok (GMT+7), open to remote work and relocation.
 
 [LinkedIn](https://www.linkedin.com/in/eminencesaul) | p.kolt080@gmail.com
